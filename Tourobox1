@@ -1,0 +1,941 @@
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/3palavrinhas.png",3 PALAVRINHAS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/723
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/a&e.png",A&E HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/458
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/a&e.png",A&E UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/300
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/226fe8c7433897bf3ca3d80d0bcea1cf.png",AGRO MAIS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/547
+#EXTINF:-1 group-title="ESPORTE PREMIUM",AMAZON ESPORTES 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/784
+#EXTINF:-1 group-title="ESPORTE PREMIUM",AMAZON ESPORTES 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/785
+#EXTINF:-1 group-title="ESPORTE PREMIUM",AMAZON ESPORTES 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/786
+#EXTINF:-1 group-title="ESPORTE PREMIUM",AMAZON ESPORTES 4
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/787
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/amc.png",AMC HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/301
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/amc.png",AMC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/425
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png",ANIMAL PLANET 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/522
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png",ANIMAL PLANET HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/302
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png",ANIMAL PLANET LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/686
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png",ANIMAL PLANET UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/436
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/arte1.png",ARTE 1 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/303
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/arte1.png",ARTE 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/426
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",AS AVENTURAS DO BATMAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/725
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/axn.png",AXN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/304
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/axn.png",AXN UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/427
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/babytv.png",BABY TV PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/669
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/band.png",BAND 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/538
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/band.png",BAND HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/305
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/band.png",BAND MINAS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/726
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/bandnews.png",BAND NEWS 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/537
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/bandnews.png",BAND NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/308
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/bandnews.png",BAND NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/307
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/band.png",BAND NORDESTE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/727
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/band.png",BAND SP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/613
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/bandsports.png",BAND SPORTS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/310
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/bandsports.png",BAND SPORTS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/309
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/band.png",BAND UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/306
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png",beIN SPORTS 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/597
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png",beIN SPORTS 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/598
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png",beIN SPORTS 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/599
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png",beIN SPORTS 4
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/600
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png",beIN SPORTS 5
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/601
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png",beIN SPORTS 6
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/602
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/BIS.png",BIS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/452
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",BOB ESPONJA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/729
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/687
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/f299b81757f5a9a2f3c25e90ee816cef.png",CANAL BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/543
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/52883a565c78a8d46e89d3f673e64262.png",CANAL DO BOI HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/552
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="http://46.165.222.67:2095/tourobox/cancaonv.png",CANCAO NOVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/699
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="http://46.165.222.67:2095/tourobox/cancaonv.png",CANCAO NOVA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/698
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/cartoon.png",CARTOON NETWORK HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/252
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/cartoon.png",CARTOON NETWORK LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/688
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/cartoon.png",CARTOON NETWORK PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/674
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/cartoon.png",CARTOON NETWORK UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/251
+#EXTINF:-1 group-title="4K" tvg-logo="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png",CARTOONITO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/530
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png",CARTOONITO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/281
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png",CARTOONITO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/280
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",CHAVES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/712
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/cinemax.png",CINEMAX HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/311
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/cinemax.png",CINEMAX UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/312
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/cnnbrasil.png",CNN BRASIL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/518
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/cnnbrasil.png",CNN BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/313
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/cnnespanh.png",CNN ESPANHOL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/315
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://toptv2.com:25461/logos/CNT.png",CNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/730
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/combate.png",COMBATE 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/502
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/combate.png",COMBATE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/283
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/combate.png",COMBATE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/282
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/comedicentral.png",COMEDY CENTRAL 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/513
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/comedicentral.png",COMEDY CENTRAL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/446
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png",COPA DO BRASIL 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/614
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png",COPA DO BRASIL 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/615
+#EXTINF:-1 group-title="4K" tvg-logo="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png",CURTA! 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/539
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png",CURTA! HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/316
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png",CURTA! UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/317
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://46.165.222.67:2095/tourobox/dazn2.png",DAZN 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/460
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png",DISCOVERY CHANNEL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/521
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png",DISCOVERY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/318
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png",DISCOVERY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/689
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png",DISCOVERY CHANNEL PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/673
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png",DISCOVERY CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/319
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/discoHeH.png",DISCOVERY H&H 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/523
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discoHeH.png",DISCOVERY H&H HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/320
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discoHeH.png",DISCOVERY H&H UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/432
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://xplussport.com:8080/images/01db1d51f1a8e75ba3a360edc60fa6f9.png",DISCOVERY ID HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/369
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png",DISCOVERY ID LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/691
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png",DISCOVERY ID PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/672
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://xplussport.com:8080/images/01db1d51f1a8e75ba3a360edc60fa6f9.png",DISCOVERY ID UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/370
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/discoverykids.png",DISCOVERY KIDS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/255
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/discoverykids.png",DISCOVERY KIDS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/254
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://xplussport.com:8080/images/9cf3027f4e272350c3eeabf760cb1cba.png",DISCOVERY SCIENCE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/321
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://xplussport.com:8080/images/9cf3027f4e272350c3eeabf760cb1cba.png",DISCOVERY SCIENCE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/435
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/discovery-theather.png",DISCOVERY TEATHER LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/692
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discovery-theather.png",DISCOVERY THEATER HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/322
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discovery-theather.png",DISCOVERY THEATER UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/323
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.pngfind.com/pngs/m/682-6829120_discovery-channel-png-download-discovery-tlc-logo-png.png",DISCOVERY TLC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/693
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/discoturbo.png",DISCOVERY TURBO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/520
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discoturbo.png",DISCOVERY TURBO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/324
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/discoturbo.png",DISCOVERY TURBO LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/694
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discoturbo.png",DISCOVERY TURBO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/433
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discoworld.png",DISCOVERY WORLD HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/325
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/discoworld.png",DISCOVERY WORLD UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/434
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/disneychannel.png",DISNEY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/257
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/disneychannel.png",DISNEY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/684
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/disneychannel.png",DISNEY CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/256
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://xplussport.com:8080/images/7e8e6a724bd1a6517cb1f2ac72defc66.png",DISNEY CLASSICO 01 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/258
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://xplussport.com:8080/images/7e8e6a724bd1a6517cb1f2ac72defc66.png",DISNEY CLASSICO 02 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/259
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/e0bf5e5eded4bfcc64c89fb02f4e499c.png",DOG TV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/549
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",DOIS HOMENS E MEIO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/711
+#EXTINF:-1 group-title="4K" tvg-logo="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png",E! 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/515
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png",E! HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/326
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png",E! UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/327
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN  5 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/574
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN  7 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/572
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN  9 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/570
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/578
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/577
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/576
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/575
+#EXTINF:-1 group-title="ESPORTE INTERNACIONAL" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png",ELEVEN 6 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/573
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",EM BUSCA DO VALE ENCANTADO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/731
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png",EPTV CAMPINAS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/632
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espn1.png",ESPN  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/334
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espn1.png",ESPN  UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/335
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espn2.png",ESPN 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/330
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espn2.png",ESPN 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/331
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espn3.png",ESPN 3 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/328
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espn3.png",ESPN 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/329
+#EXTINF:-1 group-title="4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png",ESPN 4 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/504
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png",ESPN 4 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/344
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png",ESPN 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/345
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espnextra.png",ESPN EXTRA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/332
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/espnextra.png",ESPN EXTRA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/333
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/eurosports.png",EUROSPORT 1 HD PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/668
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/eurosports.png",EUROSPORT HD PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/667
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/cb4b17a59bff0dc91500b8731a2c5986.png",FASHION TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/550
+#EXTINF:-1 group-title="FEC INFANTIL 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC BEN 10
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/590
+#EXTINF:-1 group-title="FEC INFANTIL 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC CAVALEIROS DO ZODIACO
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/591
+#EXTINF:-1 group-title="FEC INFANTIL 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC CAVERNA DO DRAGÃO
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/592
+#EXTINF:-1 group-title="FEC INFANTIL 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC GALINHA PINTADINHA
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/593
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/556
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 10
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/565
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 11
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/566
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 12
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/567
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 13
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/568
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 14
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/569
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/557
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/558
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 4
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/559
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 5
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/560
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 6
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/561
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 7
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/562
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 8
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/563
+#EXTINF:-1 group-title="FEC FILMES 24/7" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png",FEC PIPOCA 9
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/564
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/filmsearts.png",FILM & ARTS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/492
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/filmsearts.png",FILM & ARTS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/336
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/fishtv.png",FISH TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/337
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/fishtv.png",FISH TV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/437
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://46.165.222.67:2095/tourobox/foodnetwor.png",FOOD NETWORK HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/732
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/foodnetwor.png",FOOD NETWORK UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/338
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",FORMIGA ATOMICA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/733
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/foxsports2.png",FOX SPORTS 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/342
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/foxsports2.png",FOX SPORTS 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/343
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",FREAKAZOID HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/734
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/futura.png",FUTURA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/346
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/futura.png",FUTURA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/347
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/fx.png",FX HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/484
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/fx.png",FX UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/348
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/globobrasilia.png",GLOBO BRASILIA 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/509
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globobrasilia.png",GLOBO BRASILIA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/290
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globobrasilia.png",GLOBO BRASILIA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/289
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/globominas.png",GLOBO MINAS 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/507
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globominas.png",GLOBO MINAS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/293
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globominas.png",GLOBO MINAS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/284
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/globonews.png",GLOBO NEWS 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/519
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/globonews.png",GLOBO NEWS DF UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/735
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/globonews.png",GLOBO NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/295
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/globonews.png",GLOBO NEWS SP UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/709
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/globonews.png",GLOBO NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/285
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globonordeste.png",GLOBO NORDESTE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/291
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globonordeste.png",GLOBO NORDESTE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/287
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://s2.loli.net/2022/02/15/CKj4ZFhTafENboX.png",GLOBO PREMIUM PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/666
+#EXTINF:-1 group-title="4K" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png",GLOBO RBS PORTO ALEGRE 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/616
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/globoRJ.png",GLOBO RJ 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/508
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globoRJ.png",GLOBO RJ HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/292
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globoRJ.png",GLOBO RJ UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/286
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png",GLOBO RPC CURITIBA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/620
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globosantos.png",GLOBO SANTOS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/625
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/globoSP.png",GLOBO SP 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/506
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globoSP.png",GLOBO SP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/294
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/globoSP.png",GLOBO SP UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/288
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/gloob.png",GLOOB 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/526
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/gloob.png",GLOOB HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/265
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/gloob.png",GLOOB UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/264
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/globinho.png",GLOOBINHO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/525
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/globinho.png",GLOOBINHO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/267
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/globinho.png",GLOOBINHO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/266
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/gnt.png",GNT 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/517
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/gnt.png",GNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/349
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/h2.png",H2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/350
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/h2.png",H2 LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/683
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/h2.png",H2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/438
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbo2.png",HBO 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/353
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbo2.png",HBO 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/354
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbofamily.png",HBO FAMILY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/357
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbofamily.png",HBO FAMILY UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/358
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png",HBO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/355
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png",HBO MAX 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/463
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png",HBO MAX 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/464
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png",HBO MAX 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/465
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png",HBO MAX 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/466
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbomundi.png",HBO MUNDI HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/367
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbomundi.png",HBO MUNDI UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/368
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hboplus.png",HBO PLUS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/361
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hboplus.png",HBO PLUS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/362
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbopop.png",HBO POP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/365
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbopop.png",HBO POP UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/366
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbosignat.png",HBO SIGNATURE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/359
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbosignat.png",HBO SIGNATURE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/360
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hbo.png",HBO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/356
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hboextreme.png",HBO XTREME HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/363
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/hboextreme.png",HBO XTREME UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/364
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",HE-MAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/739
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/b7899a72e09cbb4af16589b15b710513.png",HGTV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/554
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/history.png",HISTORY 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/524
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/history.png",HISTORY CHANNEL PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/665
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/history.png",HISTORY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/351
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/history.png",HISTORY UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/352
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",HOMEM ARANHA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/740
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",HOMEM DE FERRO  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/741
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png",I-SAT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/742
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/intertv_4k.png",INTER TV CABUGI UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/629
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/jovempan.png",JOVEM PAN NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/449
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/jovempan.png",JOVEM PAN NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/450
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/c87c4806dfd42e40e55f92b257b6cf4f.png",LIFETIME HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/555
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/4e4557287b2d8130e9a55c76c15a329d.png",LIKE  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/542
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",MASHA E O URSO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/738
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/megapix.png",MEGAPIX HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/491
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/megapix.png",MEGAPIX UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/371
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/8fb2caaa09fb1c05283fe55c3f6723bf.png",MODO VIAGEM UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/545
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",MORANGUINHO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/737
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/motorvision.png",MOTOR VISION PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/664
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/mtvlive.png",MTV LIVE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/443
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/mtv.png",MTV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/453
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/mtv00.png",MTV'S 00 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/512
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/mtv00.png",MTV'S 00 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/454
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/multishow.png",MULTISHOW  4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/516
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/multishow.png",MULTISHOW UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/372
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/musicbox.png",MUSIC BOX BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/445
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",NARUTO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/736
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png",NATIONAL GEOGRAPHIC HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/373
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png",NATIONAL GEOGRAPHIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/682
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png",NATIONAL GEOGRAPHIC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/439
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://toptv2.com:25461/logos/NHHK.png",NHK UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/708
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/nickjr.png",NICK JR HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/271
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/nickjr.png",NICK JR PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/663
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/nickjr.png",NICK JR UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/270
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/nickmusic.png",NICK MUSIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/680
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/Nickelodeon.png",NICKELODEON 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/528
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/Nickelodeon.png",NICKELODEON HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/273
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://46.165.222.67:2095/tourobox/Nickelodeon.png",NICKELODEON PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/662
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/Nickelodeon.png",NICKELODEON UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/272
+#EXTINF:-1 group-title="ESPORTE PREMIUM",NOSSO FUTEBOL 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/762
+#EXTINF:-1 group-title="ESPORTE PREMIUM",NOSSO FUTEBOL 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/764
+#EXTINF:-1 group-title="ESPORTE PREMIUM",NOSSO FUTEBOL 4
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/765
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/nsports.png",NSPORTS 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/643
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://46.165.222.67:2095/tourobox/off.png",OFF HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/546
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png",PAI ETERNO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/536
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png",PAI ETERNO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/428
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/7cb4f438f2191c6f2ca46487121e7f5b.png",PANDA BIGGS PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/661
+#EXTINF:-1 group-title="4K" tvg-logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png",PARAMOUNT 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/541
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png",PARAMOUNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/375
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png",PARAMOUNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/455
+#EXTINF:-1 group-title="ESPORTE PREMIUM",PARAMOUNT+ 1 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/780
+#EXTINF:-1 group-title="ESPORTE PREMIUM",PARAMOUNT+ 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/781
+#EXTINF:-1 group-title="ESPORTE PREMIUM",PARAMOUNT+ 3 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/782
+#EXTINF:-1 group-title="ESPORTE PREMIUM",PARAMOUNT+ 4 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/783
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",PEPPA PIG HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/750
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",PEQUENA SEREIA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/751
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",PERNALONGA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/752
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",PINK E CEREBRO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/715
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",POKEMON HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/716
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/polishop.png",POLISHOP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/749
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/premiere2.png",PREMIERE 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/532
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere2.png",PREMIERE 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/377
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere2.png",PREMIERE 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/482
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere 3.png",PREMIERE 3 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/378
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere 3.png",PREMIERE 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/481
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere4.png",PREMIERE 4 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/379
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere4.png",PREMIERE 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/480
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere5.png",PREMIERE 5 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/380
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere5.png",PREMIERE 5 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/479
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere6.png",PREMIERE 6 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/381
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere6.png",PREMIERE 6 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/478
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere7.png",PREMIERE 7 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/382
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere7.png",PREMIERE 7 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/477
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere8.png",PREMIERE 8 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/383
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere8.png",PREMIERE 8 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/476
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://xplussport.com:8080/images/107d824017bb48a2da986be4e1f5fe2a.png",PREMIERE 9 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/384
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://xplussport.com:8080/images/107d824017bb48a2da986be4e1f5fe2a.png",PREMIERE 9 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/475
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/premiere1.png",PREMIERE CLUBES 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/531
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere1.png",PREMIERE CLUBES HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/376
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/premiere1.png",PREMIERE CLUBES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/483
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/primebrazil.png",PRIME BOX BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/386
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/primebrazil.png",PRIME BOX BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/385
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/raiitalia.png",RAI ITALIA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/707
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png",RBI UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/701
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/record.png",RECORD 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/511
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/record.png",RECORD HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/387
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/recordnews.png",RECORD NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/388
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://46.165.222.67:2095/tourobox/recordnews.png",RECORD NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/706
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/recordRJ.png",RECORD RJ UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/633
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/record.png",RECORD UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/496
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png",REDE AMAZONICA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/622
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png",REDE BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/746
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="http://46.165.222.67:2095/tourobox/redegospel.png",REDE GOSPEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/697
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/redetv.png",REDE TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/389
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/redetv.png",REDE TV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/495
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",REDE VIDA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/390
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/saborearte.png",SABOR & ARTE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/747
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/sbt.png",SBT 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/510
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/sbt.png",SBT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/391
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/sbt.png",SBT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/392
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/shoptime.png",SHOPTIME UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/748
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png",SKY SPORTS F1 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/660
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/009233f8001e949aad9e2a7551ebcc5a.png",SONY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/393
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/009233f8001e949aad9e2a7551ebcc5a.png",SONY CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/394
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/space.png",SPACE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/395
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/space.png",SPACE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/448
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png",SPORT TV 1 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/659
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png",SPORT TV 2 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/658
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png",SPORT TV 3 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/657
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png",SPORT TV 4 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/656
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png",SPORT TV 5 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/655
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png",SPORT TV+ PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/654
+#EXTINF:-1 group-title="PORTUGAL",SPORTING PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/653
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/sportv1.png",SPORTV 1 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/503
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/sportv1.png",SPORTV 1 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/396
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/sportv1.png",SPORTV 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/474
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/sportv2.png",SPORTV 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/533
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/sportv2.png",SPORTV 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/397
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/sportv2.png",SPORTV 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/473
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/sportv3.png",SPORTV 3 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/398
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="http://46.165.222.67:2095/tourobox/sportv3.png",SPORTV 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/472
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/star1.png",STAR + 1 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/505
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://46.165.222.67:2095/tourobox/star1.png",STAR + 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/467
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://46.165.222.67:2095/tourobox/star2.png",STAR + 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/468
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://46.165.222.67:2095/tourobox/star3.png",STAR + 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/469
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/star.png",STAR CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/490
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/star.png",STAR CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/399
+#EXTINF:-1 group-title="ESPORTE PREMIUM" tvg-logo="http://46.165.222.67:2095/tourobox/star4.png",STAR+ 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/470
+#EXTINF:-1 group-title="ESPORTE PREMIUM",STAR+ 5 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/776
+#EXTINF:-1 group-title="ESPORTE PREMIUM",STAR+ 6 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/777
+#EXTINF:-1 group-title="ESPORTE PREMIUM",STAR+ 7 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/778
+#EXTINF:-1 group-title="ESPORTE PREMIUM",STAR+ 8 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/779
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",STREET FIGHTER  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/718
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/52397e3a2e54a5b8b21dc37612c183d0.png",STUDIO UNIVERSAL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/489
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/52397e3a2e54a5b8b21dc37612c183d0.png",STUDIO UNIVERSAL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/444
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",SUPER MAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/714
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/syfy.png",SYFY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/488
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/syfy.png",SYFY UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/400
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/ccbe97c5fd5031716c58657495926e87.png",TBS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/401
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/ccbe97c5fd5031716c58657495926e87.png",TBS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/487
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/585b7e96b59b07b31a32ada7bd293973.png",TCM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/402
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png",TELECINE ACTION HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/407
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png",TELECINE ACTION UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/408
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/1c127bf7cacd67912d27413cc5d61e0e.png",TELECINE CULT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/409
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/1c127bf7cacd67912d27413cc5d61e0e.png",TELECINE CULT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/410
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/3265c50b6acd9573148b9ecd4ba42940.png",TELECINE FUN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/411
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/3265c50b6acd9573148b9ecd4ba42940.png",TELECINE FUN UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/412
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png",TELECINE PIPOCA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/413
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png",TELECINE PIPOCA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/414
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/8cfce2c595f8cba6bf5f5201411d4750.png",TELECINE PREMIUM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/415
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/8cfce2c595f8cba6bf5f5201411d4750.png",TELECINE PREMIUM UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/416
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/006b8e328b9d1df0bda4615d721ed20d.png",TELECINE TOUCH HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/417
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/006b8e328b9d1df0bda4615d721ed20d.png",TELECINE TOUCH UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/418
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/tlc.png",TLC HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/403
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://46.165.222.67:2095/tourobox/tlc.png",TLC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/404
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/tnt.png",TNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/405
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/05/tnt-novelas.png",TNT NOVELA 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/842
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/tntserie.png",TNT SERIES 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/540
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/tntserie.png",TNT SERIES HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/406
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/tntserie.png",TNT SERIES LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/678
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/tntserie.png",TNT SERIES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/486
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/tnt.png",TNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/447
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",TODO MUNDO ODEIA O CRIS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/710
+#EXTINF:-1 group-title="CANAIS 24 HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png",TOM & JERRY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/713
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/tooncast.png",TOONCAST HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/275
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/tooncast.png",TOONCAST UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/274
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://xplussport.com:8080/images/babd9771c1c1e2f29c4cb36be9818109.png",TRACE BRAZUCA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/544
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/travelbox.png",TRAVEL BOX BRASIL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/534
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/travelbox.png",TRAVEL BOX BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/442
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/trutv.png",TRU TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/745
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvanhangue.png",TV ANHANGUERA GOIANIA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/624
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="http://xplussport.com:8080/images/b6a842814eea07710529578743a15341.png",TV APARECIDA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/553
+#EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://46.165.222.67:2095/tourobox/tvbrasil.png",TV BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/548
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvbrasil.png",TV BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/703
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png",TV CAMARA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/299
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png",TV CENTRO AMERICA CUIABA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/630
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png",TV CULTURA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/639
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png",TV DIARIO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/744
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png",TV ESCOLA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/298
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="http://46.165.222.67:2095/tourobox/evangelizar.png",TV EVANGELIZAR HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/695
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/gazeta.png",TV GAZETA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/626
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/gazeta.png",TV Gazeta Vitoria ES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/700
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvjustica.png",TV JUSTICA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/297
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvliberal.png",TV LIBERAL BELEM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/612
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/morena.png",TV MORENA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/638
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="http://xplussport.com:8080/images/b51ff808fcf95df6e490ee5a0520cb37.png",TV NOVO TEMPO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/551
+#EXTINF:-1 group-title="4K" tvg-logo="http://46.165.222.67:2095/tourobox/ratimbum.png",TV RA TIM BUM  4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/529
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/santacruz.png",TV SANTA CRUZ UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/702
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAqFBMVEX///8AW56AgoUASpYAVJsASJUAWZ0AV5wAUZkAU5oATpgAUJkAR5UATJfK1eT6/P1ahLN7fYHv8/fT3emyw9m1treJpMY/dKuWmJra4uymutPl6/Jwk7ykuNKUrMuds8/D0OE0badzdnlli7fHyMl6mb9QfrAmZ6SvwNeBnsIAOI/g4OHx8fEZYaFXgrPF0uIAMIy7vL6rrK7p6enT09SLjZAAP5KanJ4UTUQPAAAIIElEQVR4nO2aaXuiPBSGpQlJ2ESFalEUl3Fra/vO0pn//8/eLIDWqUUtjp25nvtLLUs4Dzk5Jyeh0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnE0qubcMlCJM4m7cmlghsiUs3vdY6Gyf/iNYom1l24DmUc4tZGsY4p8IL7GXaT65t38cYDBckEDwX9juMekHQWnWubeeZJKMNEfyQuK1KLuxJNri2tScTDpfEOdh3+3Dh9+Jrm3wSSWp7R8vLu9ILun+Nt0YLm54mz2ik/uyvcNaoR6oH3wG43/r0GgdP9onuua8x/dxZsusf3X+MU0cIz/OEkLlye5wG2bVVHGbMxXHqqJzcbJ7mo34cj+O4P5ovLNst8ibzlp90GhDO7KP8UBCern7TEEb9mROYBMP87jUEVBHRIwIoc97N7sloSagS6W0+X8Tp+kfoc+moyvJk7apUyu3VHzH7aMKee4S+5XHzltXGlRqD9MI2n8TAqvZQdzk+ur3Ykv0oJp8nbzSDyhzo0NPmncOAWpx/lsEY+1UCmT8/tdFwRhgLokvYezLDyhhD2TmWjmWCtJu1m3s6WaXAYHZey+HCZf64VmPPIatK88wfnt1412b+c43GnsOqqgcZ+Yijxb7lX3csPlcJ5M7H4mFEGLlmRE2qXJTzj9btg4A516v9O1UrMezDAqVEly9rsPU8JlXFoFfH209858xg/GHSqmrQrqfOG/vB+eH4I8RVg9Cua4Ewc/1r1MSdqsmoWNf2rJmwamvreHoVg5BNanyYJU6e2B7Fj3fOZff2+/h1xvjk/r9xjc3lPN58e+dsWMX5D74nhNzvzYQuse34MG3f1t7oURDp4+7li4qv05trKvQurvDb9OYfV3h384kU1j4Ev7/cKYGSO0MZcb68lP8150vi27S33jEl7LeY73u9Yskw7W1p7a4jDkYLZvv2ptXfGj9YL22fpcmewmg9IbbPW6s6ZX6f3rxmWrR+15Y9+0X+6PTMyi3jlEwK0/tmy5cxJ1+W6VFewLizXatJfUcnU8YF6efHur5ukPrdRrBVmEyK53h1bmf8prBdJEZ1YvooO8vaSfc8L+BSsp3kCJ3uF68nBd7CtLLwduYF9kgfm5XrrcGIlgpXOxs9zOvVplDmibZRplB/czf9of65U/YoI2hg267uNF3dZIGWK4ReOnVa8lBL20dFfsxy9Tr2SolhwnXNNrGv3k9f32xRtQmlr9UKx6a+psJ0Oa1NYvjw8PCihckfX7REc+Jb7qQd9WTRHTTCpKXsUQsV+phF0jhea2vVKplWKNbZMOvqTmcb1cqGKa8bNqO4p24Wsm4I9RxXWOl6QfL+bhZHKVsPR+awV+e+2zaWKoXTB33wJnfSWLoZz1/o0qHU7cpxVEiVMUMNHXVeKaTGC00tacuZ3OCn7NOfplaYyAupvHmo6jBXbzgltFTYdZQzmNqwqTvevYjC23bx61ENw5dGbtDGXBinEvlulQCaVxPqDVhyXqoUiryEelYmqhXewSjLsrzeW1OjsKdeSV7mRqRQKFgxAoo2vRo/2NgqfNBxR/1SDtv+Kn+slELOR9FOrFd2BUUVp/zUHb9S2NFzsdfrZp1N3of27s26t6XCJHilie+8hXoVGt/8Ln/8auc/BiYCOK6/nMemhBirV+xkfc1KWe5k7yjsRHG3tdHBVypUr4c5xaNHjlGo3yMpK5SUFwO5doW3RdeVndmYFfGeUc9fqMGnzbEc4QmFtnx+UGG28V1B801tqTCSvcXKQBkLo1APQ1JapIQzcRGF3/Ph91AolSx2ch9Xqby/k+MMND2gcGAJs5dNXZorlGOUPxWPHrtGoRqkjJYW6cEfXERhEUJvCyfVZvRsjxYq3ZEJBBbZrYBnbysM9YcXPCDLtDnnWqEacXyxr1BH560k3YfeZRR+NWnwpnRSY3I8n9iuUek3mjrU7ZXAbyocaSecaX+dm1iqz5UrMSvPKNRuYZfjUF17oXGos0T7V/hWPRV19cQkiLSRZG/h4k2FOn6mW6tVLFW72uXifZrH0kjH0nHRmB4QrcsobOgJjsoVeeaXhHkibwy0Tz031PK36L9u5C2FoYrDXh5Te8ZLG0/53/JCnQ/VlKYMQNp39x9Qm8Iv7WIKXshaE7+wPDC5TDtRvsPQ7zUPK1S5zzVbZs+BiTTGMUlUqjYKUz0FN8IHeqpj11hC6QLx7tG0+JgXG8UMXFY6UlWm5AzUdETNpnSOZE6WdJIu4YH+7OJNL1V/TVjpkzxbGDdlwagZ9Te8nLWZqa6YDMfxXF8q6vyQ6JfutunUhJaXXGHupE39aIe4G09nDU+57FxFEFkykEC9bn6fHFCop+OcpTNH6Om4VtjXxRN1XZlIGMsVNvp6VZ3LJKt7kNcYZ0yav8mnoaWbTouzo1fbhsKMld7ONgbzD/ZhZO6VRbHltsrx91TeTBcqFpn68NVznE2tu2yP0/aOwnC666QNNe9wi+/sqF982jP3afHtHdcGtjhjxcSyYzPGdMYfmrKWCRGtBGOOcb2ZbY56kwZTV5qRPOYeZ3uPqU3i7YuqgI1C6bSSbSRVGmfcJoTYy+52/WXQXapjpJd/sdVyKS22Zzo+pdTsWCcteZW9GYWNjFAa5FG5+RSo5mS05EJeWazTxE+evfeYP0fY6XT2g5s6dsStb1914N43HgMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDv8T8B4oYFKO95UwAAAABJRU5ErkJggg==",TV SENADO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/296
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvtem.png",TV TEM BAURU UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/623
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvtem.png",TV TEM SAO JOSE DO RIO PRETO
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/627
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://46.165.222.67:2095/tourobox/tvtem.png",TV TEM SOROCABA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/631
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png",TV VANGUARDA S. J DOS CAMPOS
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/628
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png",TV VERDES MARES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/621
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png",TVE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/705
+#EXTINF:-1 group-title="ESPORTE PREMIUM",UFC FIGHT PASS
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/759
+#EXTINF:-1 group-title="ESPORTE PREMIUM",UFC PPV
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/758
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png",UNIVERSAL CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/419
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png",UNIVERSAL CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/485
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://46.165.222.67:2095/tourobox/vh1.png",VH1 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/743
+#EXTINF:-1 group-title="4K" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png",VIVA 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/514
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png",VIVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/420
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png",VIVA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/421
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/wbchannel.png",WARNER CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/422
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://46.165.222.67:2095/tourobox/wbchannel.png",WARNER CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/423
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png",WOOHOO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/424
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 01
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/816
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 02
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/817
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 03
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/818
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 04
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/819
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 05
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/820
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 06
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/821
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 08
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/823
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 09
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/824
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 10
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/825
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 12
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/827
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 14
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/829
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 16
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/831
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 17
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/832
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 18
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/833
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 19
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/834
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 20
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/835
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 21
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/836
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 22
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/837
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 23
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/838
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 24
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/839
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 25
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/840
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS 26
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/841
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS ANAL
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/815
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS BIG ASS
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/814
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS BIG DICK
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/813
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS BIG TITS
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/812
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS BLOND
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/811
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS BLOWJOB
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/810
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS BRUNETTE
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/809
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS COMPILATION
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/808
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS CUCKOLD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/807
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS FETISH
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/806
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS GANGBANG
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/805
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS GAY
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/804
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS HARDCORE
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/803
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS INTERRACIAL
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/802
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS LATINO
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/801
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS LESBIAN
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/800
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS LIVE CAMS
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/799
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS MILF
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/798
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS PORNSTAR
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/797
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS POV
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/796
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS ROUGH
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/795
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS RUSSIAN
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/794
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS TEEN
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/793
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://seeklogo.com/images/X/xvideos-logo-77E7B4F168-seeklogo.com.png",XVIDEOS THREESOME
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/792
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/zoomoo.png",ZOOMO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/279
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="http://46.165.222.67:2095/tourobox/zoomoo.png",ZOOMO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives7317348676/6353755132/278
